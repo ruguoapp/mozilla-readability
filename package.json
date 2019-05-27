@@ -1,8 +1,8 @@
 {
-  "name": "readability",
+  "name": "@ruguoapp/moz-readability",
   "version": "0.2.0",
   "description": "A standalone version of the readability library used for Firefox Reader View.",
-  "main": "Readability.js",
+  "main": "index.js",
   "scripts": {
     "lint": "eslint .",
     "test": "mocha test/test-*.js",
